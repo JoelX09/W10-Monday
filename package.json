@@ -1,0 +1,23 @@
+{
+  "name": "W10-Monday",
+  "version": "1.0.0",
+  "description": "Challenges 1-4 (03-14-2022)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelX09/W10-Monday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelX09/W10-Monday/issues"
+  },
+  "homepage": "https://github.com/JoelX09/W10-Monday#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
